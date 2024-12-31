@@ -1,2 +1,2 @@
 # SeleniumBasicIntro
-It is just for practice
+It is created for practice purpose
